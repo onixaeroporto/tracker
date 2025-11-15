@@ -3,6 +3,7 @@ name: Dependency
 about: Gerenciar dependências do projeto
 title: '[DEPENDENCY] '
 labels: dependency
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Tipo de Dependência

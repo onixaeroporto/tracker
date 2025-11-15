@@ -3,6 +3,7 @@ name: Doc Bug Report
 about: Reportar um erro ou problema na documentação
 title: '[DOC BUG] '
 labels: documentation, bug
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Descrição do Problema

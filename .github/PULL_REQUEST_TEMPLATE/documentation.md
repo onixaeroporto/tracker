@@ -3,6 +3,7 @@ name: Documentation
 about: Template para PRs de documentação
 title: '[DOCS] '
 labels: documentation
+assignees: onixaeroporto, reeseae64
 ---
 
 ## 📚 Tipo de Documentação

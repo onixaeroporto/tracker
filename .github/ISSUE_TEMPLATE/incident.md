@@ -3,6 +3,7 @@ name: Incident
 about: Registrar incidente detectado em produção
 title: '[INCIDENT] '
 labels: incident, critical
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Status do Incidente

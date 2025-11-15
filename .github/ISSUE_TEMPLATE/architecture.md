@@ -3,6 +3,7 @@ name: Architecture
 about: Propor ou documentar mudanças na arquitetura do sistema
 title: '[ARCHITECTURE] '
 labels: architecture
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Tipo de Mudança

@@ -3,6 +3,7 @@ name: Design Bug
 about: Reportar um problema relacionado ao design ou interface
 title: '[DESIGN BUG] '
 labels: design, bug, ui-bug
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Descrição do Problema

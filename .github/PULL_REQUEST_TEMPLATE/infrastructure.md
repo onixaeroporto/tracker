@@ -3,6 +3,7 @@ name: Infrastructure
 about: Template para PRs de infraestrutura
 title: '[INFRA] '
 labels: infra, infrastructure
+assignees: onixaeroporto, reeseae64
 ---
 
 ## 🏗️ Tipo de Mudança

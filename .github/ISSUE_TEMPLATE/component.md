@@ -3,6 +3,7 @@ name: Component
 about: Criar ou modificar um componente
 title: '[COMPONENT] '
 labels: component
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Tipo de Ação

@@ -3,6 +3,7 @@ name: Customer Issue
 about: Registrar problema reportado por cliente
 title: '[CUSTOMER ISSUE] '
 labels: customer-issue
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Informações do Cliente

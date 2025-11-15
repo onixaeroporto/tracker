@@ -3,6 +3,7 @@ name: Technical Debt
 about: Registrar dívida técnica que deve ser tratada
 title: '[TECH DEBT] '
 labels: technical-debt
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Tipo de Dívida Técnica

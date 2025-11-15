@@ -3,6 +3,7 @@ name: Feature Request
 about: Sugerir uma nova funcionalidade ou melhoria
 title: '[FEATURE] '
 labels: enhancement
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Descrição da Feature

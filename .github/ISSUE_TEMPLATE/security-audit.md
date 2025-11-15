@@ -3,6 +3,7 @@ name: Security Audit
 about: Solicitar ou documentar auditoria de segurança
 title: '[SECURITY AUDIT] '
 labels: security-audit
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Tipo de Auditoria

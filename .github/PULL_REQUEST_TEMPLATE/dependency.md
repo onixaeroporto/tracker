@@ -3,6 +3,7 @@ name: Dependency Update
 about: Template para PRs que atualizam dependências
 title: '[DEPENDENCY] '
 labels: dependency, dependencies
+assignees: onixaeroporto, reeseae64
 ---
 
 ## 📦 Tipo de Atualização

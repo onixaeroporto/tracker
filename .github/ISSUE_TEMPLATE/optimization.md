@@ -3,6 +3,7 @@ name: Optimization
 about: Solicitar ou documentar otimização necessária
 title: '[OPTIMIZATION] '
 labels: optimization
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Tipo de Otimização

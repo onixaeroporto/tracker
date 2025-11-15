@@ -3,7 +3,7 @@ name: Pull Request
 about: Template padrão para Pull Requests
 title: ''
 labels: ''
-assignees: ''
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Tipo de Mudança

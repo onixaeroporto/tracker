@@ -3,6 +3,7 @@ name: Bug Report
 about: Reportar um bug ou problema no sistema
 title: '[BUG] '
 labels: bug
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Descrição do Bug

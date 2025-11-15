@@ -3,6 +3,7 @@ name: Feature
 about: Template para PRs que adicionam novas funcionalidades
 title: '[FEATURE] '
 labels: enhancement, feature
+assignees: onixaeroporto, reeseae64
 ---
 
 ## ✨ Descrição da Feature

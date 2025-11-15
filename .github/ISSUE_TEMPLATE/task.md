@@ -3,6 +3,7 @@ name: Task
 about: Criar uma tarefa de trabalho ou atividade
 title: '[TASK] '
 labels: task
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Descrição da Tarefa

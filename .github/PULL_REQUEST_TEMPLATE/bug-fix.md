@@ -3,6 +3,7 @@ name: Bug Fix
 about: Template para PRs que corrigem bugs
 title: '[BUG FIX] '
 labels: bug, bug-fix
+assignees: onixaeroporto, reeseae64
 ---
 
 ## 🐛 Descrição do Bug

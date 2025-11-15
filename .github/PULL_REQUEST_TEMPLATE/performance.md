@@ -3,6 +3,7 @@ name: Performance Optimization
 about: Template para PRs de otimização de performance
 title: '[PERFORMANCE] '
 labels: optimization, performance
+assignees: onixaeroporto, reeseae64
 ---
 
 ## ⚡ Tipo de Otimização

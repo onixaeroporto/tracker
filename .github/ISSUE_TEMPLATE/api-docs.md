@@ -3,6 +3,7 @@ name: API Documentation
 about: Criar ou atualizar documentação de API
 title: '[API DOCS] '
 labels: api-docs, documentation
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Tipo de Documentação

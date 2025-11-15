@@ -3,6 +3,7 @@ name: Documentation Request
 about: Solicitar nova documentação ou melhoria na documentação existente
 title: '[DOC REQUEST] '
 labels: documentation
+assignees: onixaeroporto, reeseae64
 ---
 
 ## Tipo de Solicitação

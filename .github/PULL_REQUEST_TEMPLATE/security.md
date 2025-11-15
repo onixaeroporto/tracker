@@ -3,6 +3,7 @@ name: Security Fix
 about: Template para PRs relacionados a segurança
 title: '[SECURITY] '
 labels: security, vulnerability
+assignees: onixaeroporto, reeseae64
 ---
 
 ## 🔒 Tipo de Correção

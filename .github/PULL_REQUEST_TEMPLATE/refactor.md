@@ -3,6 +3,7 @@ name: Refactor
 about: Template para PRs de refatoração
 title: '[REFACTOR] '
 labels: refactor, technical-debt
+assignees: onixaeroporto, reeseae64
 ---
 
 ## 🔄 Tipo de Refatoração
